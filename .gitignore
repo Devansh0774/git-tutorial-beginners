@@ -1,0 +1,4 @@
+passwords.txt
+one.log
+*.log
+node_modules/
