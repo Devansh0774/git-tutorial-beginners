@@ -1,6 +1,7 @@
 this is readme
-the best ways are
-eat
-sleep
-code
-repeat
+the best ways are:
+- eat
+- sleep
+- code
+- repeat
+Thank You
