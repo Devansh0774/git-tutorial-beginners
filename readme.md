@@ -5,3 +5,6 @@ the best ways are:
 - code
 - repeat
 Thank You for reading this
+
+## summary
+this is a nice readme
