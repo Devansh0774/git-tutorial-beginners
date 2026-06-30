@@ -4,4 +4,4 @@ the best ways are:
 - sleep
 - code
 - repeat
-Thank You
+Thank You for reading this
